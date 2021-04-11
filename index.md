@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My Website!
 
-What if i type stuff right here?
+I am a hobbiest gamedev whi makes small game with the Godot Game engine.
 
-You check out my games on my [itch.io page](https://spookyhousegames.itch.io/).
+You can check out my games on my [itch.io page](https://spookyhousegames.itch.io/).
+
+In the future I hope to create more games and maybe even expand this webpage to have more tutorials and devlogs!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
