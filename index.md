@@ -2,7 +2,7 @@
 
 What if i type stuff right here?
 
-You can use the [editor on GitHub](https://github.com/spookyhousegames/spookyhousegames.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You check out my games on my [itch.io page](https://spookyhousegames.itch.io/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
